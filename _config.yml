@@ -26,4 +26,4 @@ defaults:
     values:
         thumbnail: ""
         description: ""
-        size: ""
+        size: "velik, srednji ali mali"
