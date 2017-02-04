@@ -3,7 +3,7 @@ title: Aurelien
 date: '2016-08-30 12:42:28'
 layout: post
 description: The perfect typographic partner for Caecilia.
-thumbnail: "/uploads/2017/02/04/aurelien-1.jpg"
+thumbnail: "/uploads/2017/02/04/aurelien.png"
 authors: Elizabeta Jevnikar, Domen Fras & Nace Pušnik
 datecreated: '2014-07-19'
 size: velik
