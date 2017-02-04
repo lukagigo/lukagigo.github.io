@@ -1,6 +1,6 @@
 ---
 title: Aurelien
-date: '2017-01-29 14:42:00'
+date: '2017-01-30 14:42:00'
 layout: post
 description: The perfect typographic partner for Caecilia.
 thumbnail: "/uploads/2017/02/04/aurelien.png"
