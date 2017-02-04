@@ -3,7 +3,7 @@ title: Parlov
 date: '2016-08-29 12:42:28'
 layout: post
 description: Thick and heavy typeface inspired by boxing.
-thumbnail: "/uploads/2017/02/04/parlov.png"
+thumbnail: "/uploads/2017/02/04/parlov-1.jpg"
 size: srednji
 ---
 
