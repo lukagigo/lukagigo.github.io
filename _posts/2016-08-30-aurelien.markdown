@@ -1,12 +1,12 @@
 ---
+title: Aurelien
+date: '2016-08-30 12:42:28'
 layout: post
-title:  "Aurelien"
-description: "The perfect typographic partner for Caecilia."
-thumbnail: "aurelien.jpg"
-authors: "Elizabeta Jevnikar, Domen Fras & Nace Pušnik"
-datecreated: 2014-07-19
-date:   2016-08-30 14:42:28 +0200
-size: "velik"
+description: The perfect typographic partner for Caecilia.
+thumbnail: aurelien.jpg
+authors: Elizabeta Jevnikar, Domen Fras & Nace Pušnik
+datecreated: '2014-07-19'
+size: velik
 ---
 
 {: .post-text }
