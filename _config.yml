@@ -17,3 +17,13 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+#forestry
+defaults:
+  - scope:
+        path: ""
+        type: post
+    values:
+        thumbnail: ""
+        description: ""
+        size: ""
