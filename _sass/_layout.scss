@@ -1,0 +1,537 @@
+.dark {
+  color: $background-color;
+  background: $bg-brand-color ;
+}
+
+#instantclick-bar {
+  background: $brand-color;
+  padding-top: 3px;
+}
+
+
+
+
+/* Form */
+
+label {
+  color: $text-color;
+}
+
+input, textarea {
+  display: block;
+  width: 100%;
+  max-width: 35em;
+  background: $bg-brand-color;
+  color: $background-color;
+  border: none;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  padding: 6px 10px;
+}
+
+input:focus, textarea:focus {
+  outline: $brand-color solid 1px;
+}
+
+input:hover, textarea:hover {
+  box-shadow: 0 2px 5px rgba(5,5,5,.4);
+  transition: all .2s ease-out;
+}
+
+input[type="submit"] {
+  background: $text-color;
+  width: 100px;
+  padding: 10px;
+  font-size: 14px;
+}
+
+input[type="submit"]:hover {
+  background: $brand-color;
+  box-shadow: 0 3px 10px rgba(5,5,5,.3);
+  transition: all .2s ease-out;
+}
+
+
+
+
+/* Navigacija */
+
+.pr10 {
+  padding-right: 10px;
+}
+
+.pl10 {
+  padding-left: 10px;
+}
+
+header {
+  font-size: 13px;
+  margin-top: 92px;
+  margin-bottom: 40px;
+  color: $text-color;
+}
+
+header a:hover {
+  text-decoration: none;
+  color: $brand-color;
+  transition: all .2s ease-out;
+}
+
+.dark-header {
+  background: #000;
+  color: $background-color;
+  margin: 0;
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
+
+.site-title {
+  color: $text-color;
+}
+
+.dark-header .site-title {
+  color: $background-color;
+}
+
+.dark-header .site-title:hover {
+  color: $brand-color;
+  transition: all .2s ease-out;
+}
+
+nav ul {
+  text-align: right;
+  list-style: none;
+  font-size: 14px;
+  margin: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 30px;
+}
+
+nav li:last-child {
+  margin-right: 0;
+}
+
+
+nav .active a {
+  color:  $grey-color;
+}
+
+nav .active:before {
+  content: "_";
+  color:  $grey-color;
+  margin-right: -2px;
+}
+
+nav a {
+  color: $grey-color;
+  text-transform: lowercase;
+}
+
+.dark-header nav a {
+  color: $background-color;
+}
+
+nav a:hover {
+  color: $brand-color;
+  text-decoration: none;
+  transition: all .2s ease-out;
+}
+
+
+
+
+
+
+
+/* Projekti Grid */
+
+.projekti {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.projekti li {
+  padding-left: 6px;
+  padding-right: 6px;
+  list-style: none;
+  margin-bottom: 30px;
+}
+
+.project-info {
+  height: 70px;
+}
+
+.projekti a {
+  color: $background-color;
+}
+
+.projekti a:hover {
+  color: $brand-color;
+  text-decoration: none;
+  transition: all .2s ease-out;
+}
+
+.projekti li:hover {
+  box-shadow: 0 5px 15px rgba(8, 16, 30, 0.4);
+  transition: all .25s ease-out;
+}
+
+.projekti h2 {
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.projekti p {
+  font-size: 13px;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+
+
+.grid {
+  max-width: 1170px;
+  margin: 28px auto 0;
+}
+
+.grid-sizer {
+  width: 25%;
+}
+
+.mali {
+  overflow: hidden;
+  list-style: none;
+  width: 25%;
+  height: 150px;
+  border: 3px solid $background-color;
+}
+.mali {
+  background: rgba(0,0,0,.1);
+  display: flex;
+}
+
+.mali>div { flex:1; }
+
+.mali img {
+  margin: auto;
+  width: 100%;
+  height: auto;
+}
+
+.velik {
+  width: 50%;
+  height: 300px;
+}
+
+.srednji {
+  width: 25%;
+  height: 300px;
+}
+
+.naslov {
+  background: #000;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: all .3s ease-out;
+}
+
+.naslov h2 {
+  display: block;
+  margin: 0 auto 30px;
+  text-align: center;
+  color: $background-color;
+  font-size: 13px;
+  font-weight: 500;
+  transition: all .3s ease-out;
+}
+
+.naslov p {
+  display: block;
+  margin: 30px auto 0;
+  text-align: center;
+  color: $light-grey;
+  font-size: 13px;
+  transition: all .3s ease-out;
+}
+
+.naslov.hover {
+  opacity: 1;
+}
+
+.naslov.hover h2 {
+  margin-bottom: 2px;
+}
+
+.naslov.hover p {
+  margin-top: 0;
+}
+
+
+
+
+
+/* Social linki */
+
+footer ul {
+  list-style: none;
+}
+
+footer li {
+  margin-bottom: 6px;
+}
+
+.crta:before {
+  content: "";
+  display: block;
+  border-top: 1px solid $brand-color;
+  max-width: 10px;
+  margin: 0 0 10px 15px;
+}
+
+footer a {
+  display: inline-block;
+  padding: 2px 5px;
+}
+
+footer a:hover .st1 {
+  fill: $brand-color;
+  transition: all .2s ease-out;
+}
+
+
+/* Sub pages */
+
+.center, .post-text {
+  margin: 0 auto;
+}
+
+.sub-page {
+  margin-top: 90px;
+}
+
+.mt {
+  margin-top: 30px;
+  margin-bottom: 90px;
+}
+
+.mw {
+    max-width: 30em;
+}
+
+.sub-page p {
+  line-height: 1.7;
+  max-width: 30em;
+}
+
+.sub-page ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.sub-page ul:before {
+  content: "";
+  display: block;
+  border-top: 1px solid $brand-color;
+  max-width: 10px;
+  margin-bottom: 5px;
+}
+
+.sub-page ul a{
+  color: $text-color;
+  font-style: italic;
+}
+
+.sub-page ul a:hover{
+  color: $brand-color;
+  text-decoration: none;
+  transition: all .2s ease-out;
+}
+
+.sub-page li {
+  margin-bottom: 5px;
+}
+
+.sub-page ul img{
+display: inline-block;
+margin-right: 5px;
+}
+
+.sub-page h3 {
+  margin-bottom: 0;
+}
+
+
+
+
+
+
+/* Post */
+
+.post {
+  margin-top: 75px;
+}
+
+.post-header {
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.post-header h1 {
+  font-style: normal;
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.post-meta {
+  margin-top: 3px;
+}
+
+.post-meta *{
+  display:block;
+}
+
+.post-text, .post-header {
+  line-height: 1.7;
+}
+
+.post-text, .post-header {
+  max-width: 30em;
+}
+
+.post-content p {
+  margin-bottom: 50px;
+}
+
+.post-content img {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
+
+.current {
+  display: none;
+}
+
+
+
+
+
+/*Style 'show menu' label button and hide it by default*/
+.show-menu {
+	text-decoration: none;
+	color: $text-color;
+	text-align: right;
+	padding: 0 15px 10px 0;
+	display: none;
+	cursor: pointer;
+}
+
+.dark-header .show-menu {
+  color: $background-color;
+  padding-bottom: 1px;
+}
+
+/*Hide checkbox*/
+input[type=checkbox] {
+	display: none;
+}
+
+/*Show menu when invisible checkbox is checked*/
+input[type=checkbox]:checked ~ nav {
+display: inline-block;
+}
+
+input[type=checkbox]:checked ~ .show-menu {
+	color: $brand-color;
+}
+
+@media screen and (max-width: 768px) {
+	/*Make dropdown links appear inline*/
+	nav {
+		display: none;
+		width: 100%;
+    padding-left: 5px!important;
+    padding-right: 5px!important;
+	}
+		/*Create vertical spacing*/
+
+    nav > ul {
+      padding-left: 0;
+    }
+
+		nav > ul > li {
+			margin-bottom: 10px;
+      margin-right: 0;
+      display: block;
+      margin-top: 10px;
+		}
+
+    nav > ul > li:first-child {
+      border-top: $grey-color-light 1px solid;
+      padding-top: 10px;
+    }
+
+    nav > ul > li:last-child {
+      border-bottom: $grey-color-light 1px solid;
+      padding-bottom: 10px;
+    }
+
+			nav > ul > li > a {
+				display: inline-block;
+				text-align: right;
+        padding-right: 10px;
+			}
+
+      .dark-header nav > ul > li:first-child {
+          border: none;
+          padding-top: 0;
+      }
+
+    .dark-header nav > ul > li:last-child {
+        border: none;
+        padding-bottom: 0;
+    }
+
+
+	/*Display 'show menu' link*/
+	.show-menu {
+		display: block;
+	}
+}
+
+
+
+
+
+/* Sticky sidebar */
+
+#sidebar1 {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+}
+
+
+@media screen and (max-width:767px) {
+  .mali, .velik, .srednji {
+    width: 100%;
+    height: 300px;
+  }
+
+  .mali img {
+    width: 100%;
+    height: auto;
+  }
+}
