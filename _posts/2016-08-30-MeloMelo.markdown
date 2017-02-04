@@ -1,6 +1,6 @@
 ---
 title: Melo Melo
-date: '2017-01-30 02:00:00'
+date: '2017-01-29 02:00:00'
 layout: post
 description: Typeface for sports jerseys.
 thumbnail: "/uploads/2017/02/04/melo-1.png"
