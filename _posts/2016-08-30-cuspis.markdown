@@ -1,6 +1,6 @@
 ---
 title: Cuspis
-date: '2016-08-30 12:42:28'
+date: '2017-01-31 14:42:00'
 layout: post
 description: Typeface for Olimpija Football club.
 thumbnail: "/uploads/2017/02/04/cuspis.jpg"
