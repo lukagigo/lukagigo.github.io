@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: '2017-01-25 14:42:00'
 layout: post
 description: A sample for a project.
@@ -18,4 +18,3 @@ Proxima Nova (2005) bridges the gap between typefaces like Futura and Akzidenz G
 ![Opis slike](/img/cuspis/13254147_1157841234266249_7925827745563788289_n.jpg)
 
 ![Opis slike](/img/cuspis/14639690_1309446109105760_3719035276630284537_n.jpg)
-
