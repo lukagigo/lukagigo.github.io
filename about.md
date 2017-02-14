@@ -8,7 +8,7 @@ Hello! I’m Luka Gigović and I’m a 24 year old graphic and typeface designer
 
 _Shout out if you want to get in touch!_
 
-*   Email: [luka.gigovic@gmail.com](mailto:luka.gigovic@gmail.com)
+*   Email: [hello@lukagigovic.com](mailto:hello@lukagigovic.com)
 *   Tel.: [040 795 908](tel:+38640795908)
 *   [Facebook.](http://facebook.com)
 *   [Instagram.](http://instagram.com)
