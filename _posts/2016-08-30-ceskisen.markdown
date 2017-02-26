@@ -1,31 +1,13 @@
 ---
-title: Parlov
-date: '2017-02-25 14:42:00'
+title: Poster for a movie event
+date: '2017-02-22 14:42:00'
 layout: post
-description: Thick and heavy typeface inspired by boxing.
-thumbnail: /img/Project Thumbnails/parlov.png
-size: velik
+description:
+thumbnail: /img/Project Thumbnails/ceskisen.png
+size: srednji
 ---
 
 {: .post-text }
 Proxima Nova (2005) bridges the gap between typefaces like Futura and Akzidenz Grotesk. The result is a hybrid that combines modern proportions with a geometric appearance. I originally released it in 1994 as Proxima Sans (now discontinued). I expanded the original six fonts (three weights with italics) into a full-featured and versatile family of 48 fonts (eight weights in three widths with italics). In the last few years, Proxima Nova has become one of the most popular web fonts, in use on thousands of websites around the world. Proxima Nova Soft (2011) is a rounded version of Proxima Nova. It was designed to be used on the MyFonts website. It has been specially optimized for web use.
 
-![Opis slike](/img/parlov/par1.png)
-
-![Opis slike](/img/parlov/par2.png)
-
-![Opis slike](/img/parlov/par3.png)
-
-![Opis slike](/img/parlov/par4.png)
-
-![Opis slike](/img/parlov/par5.png)
-
-![Opis slike](/img/parlov/par6.png)
-
-![Opis slike](/img/parlov/par7.png)
-
-![Opis slike](/img/parlov/par8.png)
-
-![Opis slike](/img/parlov/par9.png)
-
-![Opis slike](/img/parlov/par10.png)
+![Opis slike](/img/maliprojekti/ceskisen.png)
