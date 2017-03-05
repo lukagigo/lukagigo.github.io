@@ -64,10 +64,18 @@ input[type="submit"]:hover {
   padding-left: 10px;
 }
 
+.pr5 {
+  padding-right: 5px;
+}
+
+.pl5 {
+  padding-left: 5px;
+}
+
 header {
   font-size: 13px;
-  margin-top: 92px;
-  margin-bottom: 40px;
+  margin-top: 105px;
+  margin-bottom: 0px;
   color: $text-color;
 }
 
@@ -198,7 +206,7 @@ nav a:hover {
 
 .grid {
   max-width: 1170px;
-  margin: 28px auto 0;
+  margin: 25px auto 105px;
 }
 
 .grid-sizer {

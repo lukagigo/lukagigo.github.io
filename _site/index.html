@@ -13,12 +13,18 @@
   <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="http://localhost:4000/">
-  <link rel="alternate" type="application/rss+xml" title="Luka Gigović" href="http://localhost:4000/feed.xml">
+  <link rel="canonical" href="http://lukagigo.github.io/">
+  <link rel="alternate" type="application/rss+xml" title="Luka Gigović" href="http://lukagigo.github.io/feed.xml">
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
   <script src="https://unpkg.com/masonry-layout@4.1/dist/masonry.pkgd.min.js"></script>
+
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
+
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fluidbox/2.0.5/css/fluidbox.min.css" /> -->
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fluidbox/2.0.5/js/jquery.fluidbox.min.js"></script>
 
   <!-- <script src="/js/sticky.js"></script> -->
 </head>
@@ -29,14 +35,14 @@
   <header class="clearfix">
 <div class="container clearfix">
 
-  <div class="col-md-4 col-sm-5 col-xs-10 pl10">
+  <div class="col-md-4 col-sm-5 col-xs-10 pl5">
     <span><a class="site-title" href="/">Graphic & typeface design by Luka Gigović.</a></span>
   </div>
 
   <input type="checkbox" id="show-menu" role="button">
   <label for="show-menu" class="show-menu col-xs-2">&#9776;</label>
 
-    <nav class="col-md-8 col-sm-7 crtica-pred pr10">
+    <nav class="col-md-8 col-sm-7 crtica-pred pr5">
       <ul>
 
         
@@ -126,6 +132,20 @@
             </div>
           </a>
       
+        <a href="/2017/02/21/cuspis.html" class="project-link mali velik">
+            <!-- <img src="./img/Project Thumbnails//img/Project Thumbnails/cuspis.jpg" alt="Cuspis" /> -->
+            <div style="background: url('/img/Project Thumbnails/cuspis.jpg') no-repeat center center; background-size:cover;">
+              <div class="naslov">
+                <div class="inner-naslov">
+                  <h2>Cuspis</h2>
+                  <p>
+                    Typeface for Olimpija Football club.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </a>
+      
         <a href="/2017/02/21/alcohole.html" class="project-link mali srednji">
             <!-- <img src="./img/Project Thumbnails//img/Project Thumbnails/alcohole.png" alt="Alco hole poster" /> -->
             <div style="background: url('/img/Project Thumbnails/alcohole.png') no-repeat center center; background-size:cover;">
@@ -140,23 +160,9 @@
             </div>
           </a>
       
-        <a href="/2017/02/20/cuspis.html" class="project-link mali velik">
-            <!-- <img src="./img/Project Thumbnails//img/Project Thumbnails/cuspis.jpg" alt="Cuspis" /> -->
-            <div style="background: url('/img/Project Thumbnails/cuspis.jpg') no-repeat center center; background-size:cover;">
-              <div class="naslov">
-                <div class="inner-naslov">
-                  <h2>Cuspis</h2>
-                  <p>
-                    Typeface for Olimpija Football club.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </a>
-      
         <a href="/2017/02/19/ruslopom.html" class="project-link mali velik">
-            <!-- <img src="./img/Project Thumbnails//img/Project Thumbnails/ruslopom-thumb.png" alt="Ruslopom" /> -->
-            <div style="background: url('/img/Project Thumbnails/ruslopom-thumb.png') no-repeat center center; background-size:cover;">
+            <!-- <img src="./img/Project Thumbnails//img/Project Thumbnails/ruslopom-thumb.jpg" alt="Ruslopom" /> -->
+            <div style="background: url('/img/Project Thumbnails/ruslopom-thumb.jpg') no-repeat center center; background-size:cover;">
               <div class="naslov">
                 <div class="inner-naslov">
                   <h2>Ruslopom</h2>
@@ -224,6 +230,34 @@
             </div>
           </a>
       
+        <a href="/2017/02/14/dresi.html" class="project-link mali srednji">
+            <!-- <img src="./img/Project Thumbnails//img/Project Thumbnails/dresi.png" alt="Font for sport jerseys" /> -->
+            <div style="background: url('/img/Project Thumbnails/dresi.png') no-repeat center center; background-size:cover;">
+              <div class="naslov">
+                <div class="inner-naslov">
+                  <h2>Font for sport jerseys</h2>
+                  <p>
+                    
+                  </p>
+                </div>
+              </div>
+            </div>
+          </a>
+      
+        <a href="/2017/02/13/ladja.html" class="project-link mali srednji">
+            <!-- <img src="./img/Project Thumbnails//img/Project Thumbnails/ladja.png" alt="Battleship illustration" /> -->
+            <div style="background: url('/img/Project Thumbnails/ladja.png') no-repeat center center; background-size:cover;">
+              <div class="naslov">
+                <div class="inner-naslov">
+                  <h2>Battleship illustration</h2>
+                  <p>
+                    
+                  </p>
+                </div>
+              </div>
+            </div>
+          </a>
+      
     </div>
 
   </div>
@@ -251,6 +285,21 @@ $(document).ready(function(){
        function(){ $(this).removeClass('hover') }
 )
 
+});
+
+</script>
+
+<script>
+
+$(document).ready(function(){
+
+   $('.fluidbox').fluidbox();
+
+});
+
+// Call public methods
+$(window).scroll(function() {
+	$('.fluidbox').fluidbox('close');
 });
 
 </script>

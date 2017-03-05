@@ -1,6 +1,6 @@
 ---
 title: Cuspis
-date: '2017-02-20 14:42:00'
+date: '2017-02-21 14:43:00'
 layout: post
 description: Typeface for Olimpija Football club.
 thumbnail: /img/Project Thumbnails/cuspis.jpg
@@ -8,44 +8,72 @@ size: velik
 ---
 
 {: .post-text }
-Proxima Nova (2005) bridges the gap between typefaces like Futura and Akzidenz Grotesk. The result is a hybrid that combines modern proportions with a geometric appearance. I originally released it in 1994 as Proxima Sans (now discontinued). I expanded the original six fonts (three weights with italics) into a full-featured and versatile family of 48 fonts (eight weights in three widths with italics). In the last few years, Proxima Nova has become one of the most popular web fonts, in use on thousands of websites around the world. Proxima Nova Soft (2011) is a rounded version of Proxima Nova. It was designed to be used on the MyFonts website. It has been specially optimized for web use.
+Typeface Cuspis was designed to mark football jerseys, used by the football club Olimpija Ljubljana. In this project, we have distanced ourselves from the modular fonts that are too often used in sports, in order to attain a high legibility of the players' names and to highlight the hallmark symbol of the club - the dragon. We were looking for options on how to connect the symbol and the typography. Therefore, we have designed a set of numbers that is actually a combination of sharp ends and incisions. When it comes to the letters, we have decided to use humanist lowercase letters that the majority considers unacceptable, because we believe that they offer us a much better result when it comes to legibility, thanks to the fact that the observer is relieved of looking at too many vertical and horizontal lines in uppercase letters.
 
+<a href="/img/cuspis/1_cuspis.png" class="fluidbox">
 ![Opis slike](/img/cuspis/1_cuspis.png)
+</a>
 
+<a href="/img/cuspis/2_cuspis.jpg" class="fluidbox">
 ![Opis slike](/img/cuspis/2_cuspis.jpg)
+</a>
 
+<a href="/img/cuspis/3_cuspis.jpg" class="fluidbox">
 ![Opis slike](/img/cuspis/3_cuspis.jpg)
+</a>
 
+<a href="/img/cuspis/4_cuspis.jpg" class="fluidbox">
 ![Opis slike](/img/cuspis/4_cuspis.jpg)
+</a>
 
+!<a href="/img/cuspis/5_cuspis.jpg" class="fluidbox">
 ![Opis slike](/img/cuspis/5_cuspis.jpg)
+</a>
 
+<a href="/img/cuspis/6_cuspis.jpg" class="fluidbox">
 ![Opis slike](/img/cuspis/6_cuspis.jpg)
+</a>
 
+<a href="/img/cuspis/7_cuspis.png" class="fluidbox">
 ![Opis slike](/img/cuspis/7_cuspis.png)
+</a>
 
+<a href="/img/cuspis/8_cuspis.jpg" class="fluidbox">
 ![Opis slike](/img/cuspis/8_cuspis.jpg)
+</a>
 
+<a href="/img/cuspis/9_cuspis.jpg" class="fluidbox">
 ![Opis slike](/img/cuspis/9_cuspis.jpg)
+</a>
 
+<a href="/img/cuspis/10_cuspis.jpg" class="fluidbox">
 ![Opis slike](/img/cuspis/10_cuspis.jpg)
+</a>
 
+<a href="/img/cuspis/11_cuspis.jpg" class="fluidbox">
 ![Opis slike](/img/cuspis/11_cuspis.jpg)
+</a>
 
-![Opis slike](/img/cuspis/12_cuspis.jpg)
-
+<a href="/img/cuspis/13_cuspis.png" class="fluidbox">
 ![Opis slike](/img/cuspis/13_cuspis.png)
+</a>
 
+<a href="/img/cuspis/14_cuspis.jpg" class="fluidbox">
 ![Opis slike](/img/cuspis/14_cuspis.jpg)
+</a>
 
-![Opis slike](/img/cuspis/15_cuspis.jpg)
-
+<a href="/img/cuspis/16_cuspis.jpg" class="fluidbox">
 ![Opis slike](/img/cuspis/16_cuspis.jpg)
+</a>
 
-![Opis slike](/img/cuspis/17_cuspis.jpg)
-
+<a href="/img/cuspis/18_cuspis.jpg" class="fluidbox">
 ![Opis slike](/img/cuspis/18_cuspis.jpg)
+</a>
 
+<a href="/img/cuspis/19_cuspis.jpg" class="fluidbox">
 ![Opis slike](/img/cuspis/19_cuspis.jpg)
+</a>
 
+<a href="/img/cuspis/20_cuspis.jpg" class="fluidbox">
 ![Opis slike](/img/cuspis/20_cuspis.jpg)
+</a>

@@ -8,24 +8,51 @@ size: velik
 ---
 
 {: .post-text }
-Proxima Nova (2005) bridges the gap between typefaces like Futura and Akzidenz Grotesk. The result is a hybrid that combines modern proportions with a geometric appearance. I originally released it in 1994 as Proxima Sans (now discontinued). I expanded the original six fonts (three weights with italics) into a full-featured and versatile family of 48 fonts (eight weights in three widths with italics). In the last few years, Proxima Nova has become one of the most popular web fonts, in use on thousands of websites around the world. Proxima Nova Soft (2011) is a rounded version of Proxima Nova. It was designed to be used on the MyFonts website. It has been specially optimized for web use.
+The Parlov font family is primarily used for marking sports jerseys, but it can also be used as a regular display typeface. It is composed of two types of thickness, semi-bold and bold, and separately designed digits that can be used in a variety of different combinations. The basic form of the characters and digits is represented by a truncated rectangle that gives this font a strong, stable and confident look.
 
+{: .post-text }
+The idea behind this project was to design a new font that is similar to the ones mostly used on sports jerseys, while improving them: this font should support a majority of languages that use Latin characters and is not too thick. Unlike the majority of such fonts, the width of the vertical stroke is not too large and allows us to improve our visual communication by distancing ourselves from the observer, as the counter space is not closing in too quickly. Despite of this, a thicker version of the font was designed in order to satisfy potential exceptional wishes of the font's users.
+
+<a href="/img/parlov/par1.png" class="fluidbox">
 ![Opis slike](/img/parlov/par1.png)
+</a>
 
+<a href="/img/parlov/par2.png" class="fluidbox">
 ![Opis slike](/img/parlov/par2.png)
+</a>
 
+<a href="/img/parlov/par3.png" class="fluidbox">
 ![Opis slike](/img/parlov/par3.png)
+</a>
 
+<a href="/img/parlov/par4.png" class="fluidbox">
 ![Opis slike](/img/parlov/par4.png)
+</a>
 
+<a href="/img/parlov/par5.png" class="fluidbox">
 ![Opis slike](/img/parlov/par5.png)
+</a>
 
+<a href="/img/parlov/par6.png" class="fluidbox">
 ![Opis slike](/img/parlov/par6.png)
+</a>
 
+<a href="/img/parlov/par7.png" class="fluidbox">
 ![Opis slike](/img/parlov/par7.png)
+</a>
 
+<a href="/img/parlov/par8.png" class="fluidbox">
 ![Opis slike](/img/parlov/par8.png)
+</a>
 
+<a href="/img/parlov/par9.png" class="fluidbox">
 ![Opis slike](/img/parlov/par9.png)
+</a>
 
+<a href="/img/parlov/par10.png" class="fluidbox">
 ![Opis slike](/img/parlov/par10.png)
+</a>
+
+<a href="/img/parlov/par11.png" class="fluidbox">
+![Opis slike](/img/parlov/par11.png)
+</a>
