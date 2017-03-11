@@ -9,7 +9,7 @@ size: srednji
 ---
 
 {: .post-text }
-Proxima Nova (2005) bridges the gap between typefaces like Futura and Akzidenz Grotesk. The result is a hybrid that combines modern proportions with a geometric appearance. I originally released it in 1994 as Proxima Sans (now discontinued). I expanded the original six fonts (three weights with italics) into a full-featured and versatile family of 48 fonts (eight weights in three widths with italics). In the last few years, Proxima Nova has become one of the most popular web fonts, in use on thousands of websites around the world. Proxima Nova Soft (2011) is a rounded version of Proxima Nova. It was designed to be used on the MyFonts website. It has been specially optimized for web use.
+This project shows an experiment in designing a sans serif font based on the humanist slab PMN Caecilia. The result is a low contrast, dynamic humanist sans with sharp endings. The experiment is a good indicator of the successfulness and efficiency of designing a sans serif pair to a serif typeface on the basis of their underlying frame .The typeface is far from finished, as it still needs a lot of modifications to it's shapes, proportions and metrics in order to become fully functional. It was a good exercise though, as I learned many new things while designing it.
 
 <a href="/img/humanistsans/1_font.png" class="fluidbox">
 ![Opis slike](/img/humanistsans/1_font.png)

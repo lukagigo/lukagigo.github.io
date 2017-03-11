@@ -8,7 +8,9 @@ size: velik
 ---
 
 {: .post-text }
-Typeface Cuspis was designed to mark football jerseys, used by the football club Olimpija Ljubljana. In this project, we have distanced ourselves from the modular fonts that are too often used in sports, in order to attain a high legibility of the players' names and to highlight the hallmark symbol of the club - the dragon. We were looking for options on how to connect the symbol and the typography. Therefore, we have designed a set of numbers that is actually a combination of sharp ends and incisions. When it comes to the letters, we have decided to use humanist lowercase letters that the majority considers unacceptable, because we believe that they offer us a much better result when it comes to legibility, thanks to the fact that the observer is relieved of looking at too many vertical and horizontal lines in uppercase letters.
+Typeface Cuspis was designed to mark football jerseys, used by the football club Olimpija Ljubljana. In this project, we have distanced ourselves from the modular fonts that are too often used in sports, in order to attain a high legibility of the players' names and to highlight the hallmark symbol of the club - the dragon. We were looking for options on how to connect the symbol and the typography. Therefore, we have designed a set of numbers that is actually a combination of sharp ends and incisions. When it comes to the letters, we have decided to use humanist lowercase letters that the majority considers unacceptable, because we believe that they offer us a much better result when it comes to legibility, thanks to the fact that the observer is relieved of looking at too many vertical and horizontal lines in uppercase letters.  \\
+  \\
+With Elizabeta Jevnikar, Domen Fras & Nace Pušnik.
 
 <a href="/img/cuspis/1_cuspis.png" class="fluidbox">
 ![Opis slike](/img/cuspis/1_cuspis.png)
