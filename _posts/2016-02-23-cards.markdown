@@ -2,7 +2,7 @@
 title: Contact cards
 date: '2017-02-16 14:43:00'
 layout: post
-description: For personal use.
+description: 
 thumbnail: /img/Project Thumbnails/cards.png
 size: mali
 ---

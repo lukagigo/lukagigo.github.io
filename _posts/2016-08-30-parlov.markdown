@@ -2,15 +2,21 @@
 title: Parlov
 date: '2017-02-25 14:42:00'
 layout: post
-description: Thick and heavy typeface inspired by boxing.
+description: Sport display typeface
 thumbnail: /img/Project Thumbnails/parlov.png
 size: velik
 ---
 
-{: .post-text }
-The Parlov font family is primarily used for marking sports jerseys, but it can also be used as a regular display typeface. It is composed of two types of thickness, semi-bold and bold, and separately designed digits that can be used in a variety of different combinations. The basic form of the characters and digits is represented by a truncated rectangle that gives this font a strong, stable and confident look.
+<div class="post-header center">
+<h1 class="post-title" itemprop="name headline">
+  Parlov
+</h1>
+</div>
 
 {: .post-text }
+The Parlov font family is primarily used for marking sports jerseys, but it can also be used as a regular display typeface. It is composed of two types of thickness, semi-bold and bold, and separately designed digits that can be used in a variety of different combinations. The basic form of the characters and digits is represented by a truncated rectangle that gives this font a strong, stable and confident look.
+  \\
+  \\
 The idea behind this project was to design a new font that is similar to the ones mostly used on sports jerseys, while improving them: this font should support a majority of languages that use Latin characters and is not too thick. Unlike the majority of such fonts, the width of the vertical stroke is not too large and allows us to improve our visual communication by distancing ourselves from the observer, as the counter space is not closing in too quickly. Despite of this, a thicker version of the font was designed in order to satisfy potential exceptional wishes of the font's users.
 
 <a href="/img/parlov/par1.png" class="fluidbox">
