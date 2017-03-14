@@ -3,13 +3,10 @@ published: true
 date: '2017-02-15 14:42:00'
 title: Portfolio website design
 layout: post
-description: 
+description:
 thumbnail: /img/Project Thumbnails/portfolio.png
 size: velik
 ---
-
-{: .post-text }
-Portfolio website design, that I will probably use in the future.
 
 <a href="/img/spletnastran/P1.png" class="fluidbox">
 ![Opis slike](/img/spletnastran/P1.png)
@@ -22,3 +19,7 @@ Portfolio website design, that I will probably use in the future.
 <a href="/img/spletnastran/P3.png" class="fluidbox">
 ![Opis slike](/img/spletnastran/P3.png)
 </a>
+
+
+{: .post-text }
+Portfolio website design, that I will probably use in the future.

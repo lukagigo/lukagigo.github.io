@@ -1,5 +1,5 @@
 ---
-title: Cuspis
+title: Typeface Cuspis
 date: '2017-02-21 14:43:00'
 layout: post
 description: Typeface for Olimpija Football club jerseys
@@ -9,7 +9,7 @@ size: velik
 
 <div class="post-header center">
 <h1 class="post-title" itemprop="name headline">
-  Cuspis
+  Typeface Cuspis
 </h1>
 </div>
 
