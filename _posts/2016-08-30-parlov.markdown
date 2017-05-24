@@ -1,8 +1,8 @@
 ---
-title: Parlov
+title: Parlov Typeface
 date: '2017-02-25 14:42:00'
 layout: post
-description: Sport display typeface
+description:
 thumbnail: /img/Project Thumbnails/parlov.png
 size: velik
 ---
@@ -14,50 +14,70 @@ size: velik
 </div>
 
 {: .post-text }
-The Parlov font family is primarily used for marking sports jerseys, but it can also be used as a regular display typeface. It is composed of two types of thickness, semi-bold and bold, and separately designed digits that can be used in a variety of different combinations. The basic form of the characters and digits is represented by a truncated rectangle that gives this font a strong, stable and confident look.
+The Parlov font family is primarily used for marking sports jerseys, but it can also be used as a regular display typeface. It is composed of two types of thickness, semibold and bold, and separately designed digits that can be used in many different combinations. The basic form of the characters and digits is represented by a truncated rectangle that gives this font a strong, stable and confident look.
   \\
-The idea behind this project was to design a new font that is similar to the ones mostly used on sports jerseys, while improving them: this font should support a majority of languages that use Latin characters and is not too thick. Unlike the majority of such fonts, the width of the vertical stroke is not too large and allows us to improve our visual communication by distancing ourselves from the observer, as the counter space is not closing in too quickly. Despite of this, a thicker version of the font was designed in order to satisfy potential exceptional wishes of the font's users.
+The typeface supports the majority of languages which use Latin characters and is suitable for designing a wide variety of sport jerseys, such as basketball, football, soccer, hockey, etc.
 
 <a href="/img/parlov/par1.png" class="fluidbox">
-![Opis slike](/img/parlov/par1.png)
+![Examples of Parlov Typeface in use](/img/parlov/par1.png)
 </a>
 
 <a href="/img/parlov/par2.png" class="fluidbox">
-![Opis slike](/img/parlov/par2.png)
+![Examples of Parlov Typeface in use](/img/parlov/par2.png)
 </a>
 
 <a href="/img/parlov/par3.png" class="fluidbox">
-![Opis slike](/img/parlov/par3.png)
+![Examples of Parlov Typeface in use](/img/parlov/par3.png)
 </a>
 
 <a href="/img/parlov/par4.png" class="fluidbox">
-![Opis slike](/img/parlov/par4.png)
+![Examples of Parlov Typeface in use](/img/parlov/par4.png)
 </a>
 
 <a href="/img/parlov/par5.png" class="fluidbox">
-![Opis slike](/img/parlov/par5.png)
+![Examples of Parlov Typeface in use](/img/parlov/par5.png)
 </a>
 
 <a href="/img/parlov/par6.png" class="fluidbox">
-![Opis slike](/img/parlov/par6.png)
+![Examples of Parlov Typeface in use](/img/parlov/par6.png)
 </a>
 
 <a href="/img/parlov/par7.png" class="fluidbox">
-![Opis slike](/img/parlov/par7.png)
+![Examples of Parlov Typeface in use](/img/parlov/par7.png)
 </a>
 
 <a href="/img/parlov/par8.png" class="fluidbox">
-![Opis slike](/img/parlov/par8.png)
+![Examples of Parlov Typeface in use](/img/parlov/par8.png)
 </a>
 
 <a href="/img/parlov/par9.png" class="fluidbox">
-![Opis slike](/img/parlov/par9.png)
+![Examples of Parlov Typeface in use](/img/parlov/par9.png)
 </a>
 
 <a href="/img/parlov/par10.png" class="fluidbox">
-![Opis slike](/img/parlov/par10.png)
+![Examples of Parlov Typeface in use](/img/parlov/par10.png)
 </a>
 
 <a href="/img/parlov/par11.png" class="fluidbox">
-![Opis slike](/img/parlov/par11.png)
+![Examples of Parlov Typeface in use](/img/parlov/par11.png)
+</a>
+
+<a href="/img/parlov/par12.png" class="fluidbox">
+![Examples of Parlov Typeface in use](/img/parlov/par12.png)
+</a>
+
+<a href="/img/parlov/par13.png" class="fluidbox">
+![Examples of Parlov Typeface in use](/img/parlov/par13.png)
+</a>
+
+<a href="/img/parlov/par14.png" class="fluidbox">
+![Examples of Parlov Typeface in use](/img/parlov/par14.png)
+</a>
+
+<a href="/img/parlov/par15.png" class="fluidbox">
+![Examples of Parlov Typeface in use](/img/parlov/par15.png)
+</a>
+
+<a href="/img/parlov/par16.png" class="fluidbox">
+![Examples of Parlov Typeface in use](/img/parlov/par16.png)
 </a>
