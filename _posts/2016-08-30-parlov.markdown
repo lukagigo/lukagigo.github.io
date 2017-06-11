@@ -14,7 +14,7 @@ size: velik
 </div>
 
 {: .post-text }
-The Parlov font family is primarily used for marking sports jerseys, but it can also be used as a regular display typeface. It is composed of two types of thickness, semibold and bold, and separately designed digits that can be used in many different combinations. The basic form of the characters and digits is represented by a truncated rectangle that gives this font a strong, stable and confident look.
+The Parlov font family is primarily used for marking sports jerseys, but it can also be used as a regular display typeface. It is composed of two types of thickness, regular and bold, and separately designed digits that can be used in many different combinations. The basic form of the characters and digits is represented by a truncated rectangle that gives this font a strong, stable and confident look.
   \\
 The typeface supports the majority of languages which use Latin characters and is suitable for designing a wide variety of sport jerseys, such as basketball, football, soccer, hockey, etc.
 
@@ -76,8 +76,4 @@ The typeface supports the majority of languages which use Latin characters and i
 
 <a href="/img/parlov/par15.png" class="fluidbox">
 ![Examples of Parlov Typeface in use](/img/parlov/par15.png)
-</a>
-
-<a href="/img/parlov/par16.png" class="fluidbox">
-![Examples of Parlov Typeface in use](/img/parlov/par16.png)
 </a>
