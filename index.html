@@ -1,26 +1,38 @@
----
-layout: default
+<!DOCTYPE html>
+<html>
 
-title: Work
-permalink: /
-order: 1
----
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <div class="grid">
-      <div class="grid-sizer"></div>
-      {% for post in site.posts %}
-        <a href="{{ post.url | prepend: site.baseurl }}" class="project-link mali {{ post.size}}">
-            <!-- <img src="./img/Project Thumbnails/{{ post.thumbnail}}" alt="{{ post.title }}" /> -->
-            <div style="background: url('{{ post.thumbnail}}') no-repeat center center; background-size:cover;">
-              <div class="naslov">
-                <div class="inner-naslov">
-                  <h2>{{ post.title}}</h2>
-                  <p>
-                    {{ post.description}}
-                  </p>
-                </div>
-              </div>
-            </div>
-          </a>
-      {% endfor %}
+  <title>Luka Gigović - Graphic and Web Designer</title>
+  <meta name="description" content="Personal ortfolio of graphic and web designer from Slovenia, Luka Gigović.">
+
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+  <link rel="stylesheet" href="css/bulma.css">
+  <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+
+  <section class="section">
+    <div class="container">
+
+      <div class="level">
+
+        <div class="level-item has-text-centered under-maintenance">
+          <a href="index.html"><img src="img/LG-logotype.png" alt="Luka Gigović Logomark" class="logo"></a>
+          <p>Website under maintenance. Check back soon.</p>
+          <p>-> <a href="mailto:hello@lukagigovic.com">hello@lukagigovic.com</a></p>
+        </div>
+      </div>
     </div>
+  </section>
+
+</body>
+
+</html>
