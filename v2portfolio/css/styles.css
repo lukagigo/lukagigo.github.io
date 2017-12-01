@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&subset=latin-ext');
+@font-face {
+    font-family: 'ibm_plex_mono';
+    src: url('fonts/ibmplexmono-regular-webfont.woff2') format('woff2'), url('fonts/ibmplexmono-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background: #f9f9f9;
+    color: #03131c;
+    font-family: 'ibm_plex_mono', monospace;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.level .logo {
+    width: 77px;
+    height: auto;
+}
+
+a {
+    color: #03131c;
+    text-decoration: none;
+    transition: all .3s ease-in-out;
+}
+
+.top-head a {
+    color: #939393;
+    font-size: .95em;
+    line-height: 1.8;
+}
+
+a:hover,
+.top-head a:hover {
+    color: #000;
+}
+
+.project-container {
+    max-width: 960px;
+    margin: 0 auto !important;
+}
+
+.project figure,
+.project-small figure {
+    position: relative;
+    background: #000;
+}
+
+.project figure img,
+.project-small figure img {
+    display: block;
+}
+
+.project figure figcaption {
+    background: #f9f9f9;
+    padding-bottom: 120px;
+    padding-top: 15px;
+}
+
+.project a {
+    color: #6d6d6d;
+    font-size: .95em;
+    line-height: 1.8;
+}
+
+.project a:hover figure img {
+    opacity: .9;
+}
+
+.project-small figure figcaption {
+    text-align: center;
+    background: #000;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    transition: .2s all ease-in-out;
+}
+
+.project-small figure figcaption h2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    height: 100%;
+}
+
+.project-small a {
+    color: #f9f9f9;
+}
+
+.small-hover:hover figure figcaption {
+    opacity: 1;
+}
+
+.project-description {
+    max-width: 35em;
+}
+
+.project-description h2 {
+    color: #03131c;
+    font-family: 'Roboto', sans-serif;
+    font-size: .95em;
+    line-height: 1.8;
+    margin-bottom: 10px;
+}
+
+.project-description p {
+    color: #7c7c7c;
+    font-family: 'Roboto', sans-serif;
+    font-size: .95em;
+    line-height: 1.8;
+}
+
+.m0a {
+    margin: 0 auto;
+}
+
+.pt15 {
+    padding-top: 15px;
+}
+
+.pt140 {
+    padding-top: 140px;
+}
+
+.pb60 {
+    padding-bottom: 60px;
+}
+
+.pb120 {
+    padding-bottom: 120px;
+}
+
+@media screen and (max-width: 769px) {
+    .pb60 {
+        padding-bottom: 30px;
+    }
+    .pb120 {
+        padding-bottom: 60px;
+    }
+    .pt140 {
+        padding-top: 80px;
+    }
+    .project figure figcaption {
+        padding-bottom: 30px;
+        padding-top: 10px;
+    }
+}
