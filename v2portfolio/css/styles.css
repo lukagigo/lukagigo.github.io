@@ -41,6 +41,11 @@ a:hover,
     margin: 0 auto !important;
 }
 
+.case-container {
+    max-width: 1400px;
+    margin: 0 auto !important;
+}
+
 .project figure,
 .project-small figure {
     position: relative;
@@ -101,7 +106,7 @@ a:hover,
 }
 
 .project-description h2 {
-    color: #03131c;
+    color: #7c7c7c;
     font-family: 'Roboto', sans-serif;
     font-size: .95em;
     line-height: 1.8;
@@ -113,6 +118,7 @@ a:hover,
     font-family: 'Roboto', sans-serif;
     font-size: .95em;
     line-height: 1.8;
+    margin-bottom: 15px;
 }
 
 .m0a {
