@@ -36,6 +36,10 @@ a:hover,
     color: #000;
 }
 
+a.leica-link:hover {
+    color: #ba3c3c;
+}
+
 .project-container {
     max-width: 960px;
     margin: 0 auto !important;
